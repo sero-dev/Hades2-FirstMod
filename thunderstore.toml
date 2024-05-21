@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "AuthorName"
-name = "ModName"
+namespace = "sero-dev"
+name = "First Mod"
 versionNumber = "0.0.0"
-description = "Allows to do some super duper thing."
-websiteUrl = "https://github.com/AuthorName/ModName"
+description = "Does absolutely nothing"
+websiteUrl = "https://github.com/sero-dev/Hades2-FirstMod"
 containsNsfwContent = false
 
 [package.dependencies]

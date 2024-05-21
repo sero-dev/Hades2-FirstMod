@@ -1,15 +1,3 @@
-# Mod name
+# First Mod
 
-Hades II mod allowing to do some super duper thing.
-
-## Features
-
-- Wow.
-- Much cool.
-  - Very doge.
-
-## Install
-
-- Do this.
-- Do that.
-  - Nope, not that.
+Hades II mod that does nothing
