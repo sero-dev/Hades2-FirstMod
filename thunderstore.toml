@@ -3,9 +3,9 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "sero-dev"
-name = "First Mod"
-versionNumber = "0.0.0"
+namespace = "serodev"
+name = "FirstMod"
+versionNumber = "0.0.1"
 description = "Does absolutely nothing"
 websiteUrl = "https://github.com/sero-dev/Hades2-FirstMod"
 containsNsfwContent = false
